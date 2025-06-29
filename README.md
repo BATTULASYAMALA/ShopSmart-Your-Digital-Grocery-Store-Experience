@@ -1,72 +1,70 @@
+# Getting Started with Create React App
 
----
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🛍️ ShopSmart - Your Smart Shopping Companion
+## Available Scripts
 
-**Live Site:** [ShopSmart](https://shopsmart-15.netlify.app/)
+In the project directory, you can run:
 
-**Status:** ✅ Live and Responsive
-**Hosted on:** Netlify
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### 📌 Overview
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-**ShopSmart** is a sleek and modern online shopping web application that offers a seamless user experience. It features a product landing page design focused on user engagement, aesthetic visuals, and mobile responsiveness — giving users a smooth browsing and buying vibe.
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### 🎯 Features
+### `npm run build`
 
-* 🛒 Clean and modern UI/UX
-* 📱 Fully responsive design (mobile + desktop)
-* 🔍 Product highlight sections
-* 🧭 Smooth navigation with call-to-action buttons
-* 🚀 Fast load times thanks to optimized assets
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
----
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### 🛠️ How to Use / Run Locally
+### `npm run eject`
 
-1. **Clone this repo**
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-   ```bash
-   git clone https://github.com/battulasyamala/SHOPSMART.git
-   cd SHOPSMART
-   ```
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-2. **Open `index.html`**
-   Just open it in any modern browser, or use Live Server in VS Code.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
----
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### 📦 Deployment
+## Learn More
 
-This project is deployed using **Netlify**.
-Want to deploy your own version?
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-1. Push your code to GitHub.
-2. Log into [Netlify](https://www.netlify.com/).
-3. Click "New Site from Git".
-4. Connect your GitHub repo.
-5. Done! 🎉
+To learn React, check out the [React documentation](https://reactjs.org/).
 
----
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
 
-### 🙌 Acknowledgements
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Big thanks to all open-source libraries and tools that supported this build.
+### Making a Progressive Web App
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### 📬 Contact
+### Advanced Configuration
 
-Built by **Battula Syamala**
-📧 Email: \[battulasyamala1234@gmail.com]
-🌐 Portfolio: \[[your portfolio link](https://my-portfolio-Battula-Syamala-projects.vercel.app/)] 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
----
+### Deployment
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
